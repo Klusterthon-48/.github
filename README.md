@@ -25,9 +25,9 @@ The repository contains the following files:
 
 ### Backend repository
 
-[Farm Fuse Backend](https://github.com/Klusterthon-48/farm-fuse-backend)
-[Farm Fuse Frontend](https://github.com/Klusterthon-48/farm_fuse_frontend)
-[Machine Learning Model](https://github.com/Klusterthon-48/machine_learning)
+- [Farm Fuse Backend](https://github.com/Klusterthon-48/farm-fuse-backend)
+- [Farm Fuse Frontend](https://github.com/Klusterthon-48/farm_fuse_frontend)
+- [Machine Learning Model](https://github.com/Klusterthon-48/machine_learning)
 
 ## Technology Stack
 
@@ -43,17 +43,17 @@ The repository contains the following files:
 
 ## Deployment
 
-[Figma Design](https://www.figma.com/file/vwX2OhPAV4fWx8n5WhRu7A/Precision-Farming?type=design&node-id=1-4&mode=design&t=WZgPw7kwwgyqrMwj-0)
-[Frontend](farm-fuse-frontend.vercel.app)
-[Backend](farm-fuse-backend.vercel.app/)
-[Machine Learning Model](drab-teal-armadillo.cyclic.app/predict)
+- [Figma Design](https://www.figma.com/file/vwX2OhPAV4fWx8n5WhRu7A/Precision-Farming?type=design&node-id=1-4&mode=design&t=WZgPw7kwwgyqrMwj-0)
+- [Frontend](farm-fuse-frontend.vercel.app)
+- [Backend](farm-fuse-backend.vercel.app/)
+- [Machine Learning Model](drab-teal-armadillo.cyclic.app/predict)
 
 ## Team Members
 
-[Chibuokem Egbuchulam](https://www.linkedin.com/) - Team Lead (Frontend Developer)
-[Olayinka Grace](https://www.linkedin.com/) - Frontend Developer
-[Gift Ukpoweh](https://www.linkedin.com/) - Machine Learning Engineer
-[Amole Adeolu](https://www.linkedin.com/) - Backend Developer
-[Samson Oluwasegun Oyedola](https://www.linkedin.com/) - UI/UX Designer
-[Francesca Osigwe](https://www.linkedin.com/) - Project Manager
-[Aniebiet Afia](https://www.linkedin.com/in/aniebietafia/) - Backend Developer
+- [Chibuokem Egbuchulam](https://www.linkedin.com/) - Team Lead (Frontend Developer)
+- [Olayinka Grace](https://www.linkedin.com/) - Frontend Developer
+- [Gift Ukpoweh](https://www.linkedin.com/) - Machine Learning Engineer
+- [Amole Adeolu](https://www.linkedin.com/) - Backend Developer
+- [Samson Oluwasegun Oyedola](https://www.linkedin.com/) - UI/UX Designer
+- [Francesca Osigwe](https://www.linkedin.com/) - Project Manager
+- [Aniebiet Afia](https://www.linkedin.com/in/aniebietafia/) - Backend Developer
