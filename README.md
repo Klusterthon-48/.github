@@ -44,9 +44,9 @@ The repository contains the following files:
 ## Deployment
 
 - [Figma Design](https://www.figma.com/file/vwX2OhPAV4fWx8n5WhRu7A/Precision-Farming?type=design&node-id=1-4&mode=design&t=WZgPw7kwwgyqrMwj-0)
-- [Frontend](farm-fuse-frontend.vercel.app)
-- [Backend](farm-fuse-backend.vercel.app/)
-- [Machine Learning Model](drab-teal-armadillo.cyclic.app/predict)
+- [Frontend](https://farm-fuse-frontend.vercel.app)
+- [Backend](https://farm-fuse-backend.vercel.app/)
+- [Machine Learning Model](https://drab-teal-armadillo.cyclic.app/predict)
 
 ## Team Members
 
