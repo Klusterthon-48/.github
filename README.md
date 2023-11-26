@@ -23,7 +23,7 @@ The repository contains the following files:
 
 - `README.md`: Contains the details of the project.
 
-### Backend repository
+### Repositories
 
 - [Farm Fuse Backend](https://github.com/Klusterthon-48/farm-fuse-backend)
 - [Farm Fuse Frontend](https://github.com/Klusterthon-48/farm_fuse_frontend)
